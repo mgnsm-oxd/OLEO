@@ -1,0 +1,224 @@
+1  ls
+    2  ls-al
+    3  ls -al
+    4  cd desktop
+    5  cd CIS211_OLEO
+    6  ls
+    7  cd ..
+    8  cd CIS211_OLEO
+    9  ls
+   10  mkdir OLEO
+   11  ls
+   12  cd ..
+   13  cd OLEO
+   14  ls
+   15  touch readme.md
+   16  start readme.md
+   17  touch test.txt
+   18  touch test.txt
+   19  ls
+   20  start readme.md
+   21  git config --global user.name
+   22  git config --global user.name "mgnsm-oxd"
+   23  git config --global user.name
+   24  git config --global user.email
+   25  git config --global user.email "oleomerlguillianne@gmail.com"
+   26  git config --global user.name
+   27  git config --global user.email
+   28  ls
+   29  cd desktop
+   30  mkdir OLEO
+   31  touch readme.md
+   32  start readme.md
+   33  touch test.txt
+   34  ls
+   35  start readme.md
+   36  git config --global user.name
+   37  git config --global user.email
+   38  git inti
+   39  git init
+   40  cd .git
+   41  cd ..
+   42  ls
+   43  ls readme.md
+   44  git status
+   45  git add OLEO
+   46  ls
+   47  cd desktop
+   48  mkdir OLEO
+   49  mkdir MGO
+   50  touch readme.md
+   51  start readme.md
+   52  touch test.txt
+   53  rm
+   54  rm readme.md
+   55  git reset
+   56  git status
+   57  git branch -M main
+   58  gite reset
+   59  ls
+   60  cd MGO
+   61  touch readme.md
+   62  start readme.md
+   63  touch readme.md
+   64  touch test.txt
+   65  rm readme.md
+   66  ls
+   67  touch test.txt
+   68  ls
+   69  start readme.md
+   70  git config --global user.name
+   71  git config --global user.email
+   72  git init
+   73  cd .git
+   74  git status
+   75  git remote add origin https://github.com/mgnsm-oxd/MGO.git
+   76  git push -u origin main
+   77  git add
+   78  ls
+   79  cd OLEO
+   80  cd desktop
+   81  git reset
+   82  ls
+   83  start
+   84  git add.
+   85  cd ..
+   86  ls
+   87  cd MGO
+   88  cd desktop
+   89  touch readme.md
+   90  start readme.md
+   91  rm readme.md
+   92  git config --global user.name
+   93  git config --global user.email
+   94  git add
+   95  git add readme
+   96  git push
+   97  git add .
+   98  git status
+   99  git commit -m "first commit"
+  100  git branch -M main
+  101  git remote add origin https://github.com/mgnsm-oxd/OLEO.git
+  102  git push -u origin main
+  103  git add .
+  104  git add
+  105  git config --global user.email
+  106  touch readme.me
+  107  ls
+  108  clear
+  109  ls
+  110  cd ..
+  111  mkdir MERL
+  112  ls
+  113  cd MERL
+  114  touch readme.md
+  115  start readme.md
+  116  rm readme.md
+  117  git config --global user.name
+  118  git config --global user.email
+  119  git init
+  120  git add .
+  121  git commit -m "first commit"
+  122  git branch -M main
+  123  git remote add origin https://github.com/mgnsm-ox/MERL.git
+  124  git push -u origin main
+  125  ls
+  126  touch readme.me
+  127  start readme.md
+  128  ls
+  129  git add readme
+  130  git add .
+  131  ls
+  132  start readme.md
+  133  ls
+  134  cd desktop
+  135  cd MERL
+  136  touch readme.md
+  137  start readme.md
+  138  start readme.md
+  139  rm readme.md
+  140  git init
+  141  git init
+  142  git add .
+  143  git add README.md
+  144  start readme.md
+  145  touch test.txt
+  146  git init
+  147  git statur
+  148  git status
+  149  git add .
+  150  git commit -m "first commit"
+  151  git branch -M main
+  152  git remote add origin https://github.com/mgnsm-oxd/MERL.git
+  153  git push -u origin main
+  154  git push -u origin main
+  155  git push -u origin main
+  156  git push -u origin main
+  157  git push
+  158  git remote add origin https://github.com/mgnsm-oxd/MERL.git
+  159  git remote add origin https://github.com/mgnsm-oxd/MERL.git
+  160  git status
+  161  git push -u origin main
+  162  git push
+  163  git add .
+  164  git status
+  165  git status
+  166  git add readme.md
+  167  git status
+  168  git commit -m "first commit"
+  169  git push
+  170  git push -u origin main
+  171  cd ..
+  172  cd MERL
+  173  start readme.md
+  174  git init
+  175  git add .
+  176  git status
+  177  git status
+  178  git add readme.md
+  179  git status
+  180  git commit -m "first commit"
+  181  git branch -M main
+  182  git remote add origin https://github.com/mgnsm-oxd/MERL.git
+  183  clear
+  184  ls
+  185  touch readme.md
+  186  start readme.md
+  187  git config --global user.name
+  188  git config --global user.email
+  189  git init
+  190  git add .
+  191  git status
+  192  git add readme.md
+  193  git status
+  194  git commit -m "first commit"
+  195  git reset
+  196  git add .
+  197  git status
+  198  clear
+  199  ls
+  200  cd desktop
+  201  mkdir OLEO
+  202  cd OLEO
+  203  touch readme.md
+  204  start readme.md
+  205  git config --global user.name
+  206  git config --global user.email
+  207  git init
+  208  git status
+  209  git add .
+  210  git commit -m "first commit"
+  211  git push
+  212  git branch -M main
+  213  git remote add origin https://github.com/mgnsm-oxd/OLEO.git
+  214  git push -u origin main
+  215  git add .
+  216  git commit -m "second commit"
+  217  git branch -M main
+  218  git remote add origin https://github.com/mgnsm-oxd/OLEO.git
+  219  git push -u origin main
+  220  git add .
+  221  git commit -m "third commit"
+  222  git branch -M main
+  223  git push -u origin main
+  224  history
